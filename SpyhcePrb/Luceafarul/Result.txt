@@ -1,0 +1,60 @@
+For the letters 'eest' we have 2 anagrams:
+'este' with count = 3
+'sete' with count = 2
+-------------------------------------------
+For the letters 'ceer' we have 2 anagrams:
+'cere' with count = 1
+'rece' with count = 1
+-------------------------------------------
+For the letters 'aiuz' we have 2 anagrams:
+'auzi' with count = 1
+'ziua' with count = 2
+-------------------------------------------
+For the letters 'aepr' we have 2 anagrams:
+'pare' with count = 1
+'prea' with count = 1
+-------------------------------------------
+For the letters 'el' we have 2 anagrams:
+'el' with count = 11
+'le' with count = 2
+-------------------------------------------
+For the letters 'ceir' we have 2 anagrams:
+'ceri' with count = 2
+'reci' with count = 2
+-------------------------------------------
+For the letters 'aer' we have 2 anagrams:
+'aer' with count = 1
+'era' with count = 1
+-------------------------------------------
+For the letters 'aerz' we have 2 anagrams:
+'raze' with count = 1
+'zare' with count = 1
+-------------------------------------------
+For the letters 'eiv' we have 2 anagrams:
+'vei' with count = 1
+'vie' with count = 1
+-------------------------------------------
+For the letters 'nu' we have 2 anagrams:
+'nu' with count = 15
+'un' with count = 19
+-------------------------------------------
+For the letters 'ai' we have 2 anagrams:
+'ai' with count = 2
+'ia' with count = 2
+-------------------------------------------
+For the letters 'aartă' we have 2 anagrams:
+'arată' with count = 2
+'arăta' with count = 1
+-------------------------------------------
+For the letters 'al' we have 2 anagrams:
+'al' with count = 1
+'la' with count = 7
+-------------------------------------------
+For the letters 'iș' we have 2 anagrams:
+'iș' with count = 1
+'și' with count = 86
+-------------------------------------------
+For the letters 'acemnotuș' we have 2 anagrams:
+'cunoaștem' with count = 1
+'cunoșteam' with count = 1
+-------------------------------------------
